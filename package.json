@@ -1,0 +1,19 @@
+{
+  "name": "bbycasrepackage",
+  "version": "1.0.0",
+  "description": "Creating json package for the build as it was missing",
+  "main": "bestbuy.ca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omartinezpou/bbycaSRE.git"
+  },
+  "author": "Sherry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omartinezpou/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/omartinezpou/bbycaSRE#readme"
+}
