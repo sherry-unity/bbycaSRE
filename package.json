@@ -2,18 +2,28 @@
   "name": "bbycasrepackage",
   "version": "1.0.0",
   "description": "Creating json package for the build as it was missing",
-  "main": "routes.js",
+  "main": "bestbuy.ca.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node routes.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparkshfx/bbycaSRE.git"
+    "url": "https://github.com/sparkshfx/bbycaSRE.git"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "Sherry",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sparkshfx/bbycaSRE/issues"
-  },
-  "homepage": "https://github.com/sparkshfx/bbycaSRE#readme"
+  "contributors": [
+    "none"
+  ],
+  "license": "SF"
 }
