@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omartinezpou/bbycaSRE.git"
+    "url": "git+https://github.com/sparkshfx/bbycaSRE.git"
   },
   "author": "Sherry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omartinezpou/bbycaSRE/issues"
+    "url": "https://github.com/sparkshfx/bbycaSRE/issues"
   },
-  "homepage": "https://github.com/omartinezpou/bbycaSRE#readme"
+  "homepage": "https://github.com/sparkshfx/bbycaSRE#readme"
 }
