@@ -4,7 +4,9 @@
   "description": "Creating json package for the build as it was missing",
   "main": "bestbuy.ca.js",
   "scripts": {
-    "start": "node routes.js"
+    "dev": "Spark",
+    "development": "NODE_ENV=dev node src/index.js",
+    "start": "node src/index.js"
   },
   "dependencies": {
     "express": "^4.13.3"
