@@ -1,31 +1,21 @@
 {
-  "name": "bbycasrepackage",
+  "name": "bbycaSRE",
   "version": "1.0.0",
-  "description": "Creating json package for the build as it was missing",
+  "description": "Creating json package for the build as it was missin",
   "main": "bestbuy.ca.js",
-  "scripts": {
-    "dev": "Spark",
-    "development": "NODE_ENV=dev node src/index.js",
-    "start": "node src/index.js"
-  },
-  "dependencies": {
-    "express": "^4.13.3"
-  },
-  "engines": {
-    "node": "4.0.0"
-  },
+  "author": "Forked from bbycaSRE",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sparkshfx/bbycaSRE.git"
+    "url": "github:sparkshfx/bbycaSRE"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "author": "Sherry",
-  "contributors": [
-    "none"
-  ],
-  "license": "SF"
+  "dependencies": {
+    "express": "^4.16.0",
+    "ejs": "^2.5.9"
+  },
+   "engines": {
+    "node": "4.0.0"
+  },
+  "scripts": {
+    "start": "node bestbuy.ca.js"
 }
